@@ -45,6 +45,7 @@ Copy the file hello.txt into the file hello1.txt
 
 ## COMMAND AND OUTPUT
 <img width="890" height="115" alt="image" src="https://github.com/user-attachments/assets/2857df4e-f9a6-4d9b-b171-173357f9cf1f" />
+
 Remove the file hello1.txt
 
 ## COMMAND AND OUTPUT
